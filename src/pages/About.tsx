@@ -54,11 +54,11 @@ export function About() {
           <div className="mt-6 flex flex-wrap gap-4">
             <div className="flex items-center">
               <Users className="h-5 w-5 mr-2 text-indigo-200" />
-              <span className="text-sm">100K+ Predictions</span>
+              <span className="text-sm"> Predictions</span>
             </div>
             <div className="flex items-center">
               <BarChart3 className="h-5 w-5 mr-2 text-indigo-200" />
-              <span className="text-sm">95% Accuracy</span>
+              <span className="text-sm">82-87% Accuracy</span>
             </div>
             <div className="flex items-center">
               <Zap className="h-5 w-5 mr-2 text-indigo-200" />
@@ -118,18 +118,18 @@ export function About() {
 
       {/* Team Section */}
       <div className="rounded-xl bg-white p-4 sm:p-6 lg:p-8 shadow-sm ring-1 ring-slate-200 dark:bg-slate-800 dark:ring-slate-700">
-        <h3 className="text-base sm:text-lg font-semibold text-slate-900 dark:text-white mb-4">The Team</h3>
+        <h3 className="text-base sm:text-lg font-semibold text-slate-900 dark:text-white mb-4">AAYUSH PARAB</h3>
         <p className="text-sm sm:text-base text-slate-600 dark:text-slate-300 leading-relaxed">
-          This application was developed by an expert AI coding assistant designed to build robust, 
-          production-ready web applications efficiently. The project demonstrates best practices in 
-          modern web development, including responsive design, dark mode support, and seamless user experience.
+          This application was developed by Aayush Parab as part of a final year project on Customer Lifetime Value (CLV) Prediction System. The project focuses on building a robust and production-ready web application that integrates machine learning with modern web technologies.
+
+It demonstrates best practices in modern web development, including responsive design, secure authentication, real-time data processing, and an interactive dashboard for analytics and insights.
         </p>
         <div className="mt-4 sm:mt-6 flex items-center">
           <div className="h-10 w-10 sm:h-12 sm:w-12 rounded-full bg-gradient-to-br from-indigo-500 to-purple-600 flex items-center justify-center text-white font-bold text-sm sm:text-base">
-            AI
+            CLV
           </div>
           <div className="ml-3 sm:ml-4">
-            <p className="text-sm font-medium text-slate-900 dark:text-white">AI Development Team</p>
+            <p className="text-sm font-medium text-slate-900 dark:text-white">AAYUSH PARAB</p>
             <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400">Building the future of predictive analytics</p>
           </div>
         </div>
